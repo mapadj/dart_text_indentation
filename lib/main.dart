@@ -34,7 +34,7 @@ String addIndentComplicated(String input, int indentSpaces) {
   return paragraphs.join('\n');
 }
 
-String addIndentCool(String input, int indentSpaces) {
+String addIndentBetter(String input, int indentSpaces) {
   if (indentSpaces == 0) return input;
 
   List<String> paragraphs = input.split('\n');
@@ -42,4 +42,26 @@ String addIndentCool(String input, int indentSpaces) {
   var newData = paragraphs.map((e) => ' ' * indentSpaces + e);
 
   return newData.join('\n');
+}
+
+String addIndentCool(String input, int indentSpaces) {
+  if (indentSpaces == 0) return input; // return trivial solution.
+  return input
+      .split('\n') // We split the input into paragraphs at '\n'
+      .map((e) => ' ' * indentSpaces + e) // we add indentSpaces to each element
+      .join('\n'); // we join the paragraphs with '\n' separator
+}
+
+String addIndentWrong(String input, int indentSpaces) {
+  if (indentSpaces == 0) return input;
+
+  List<String> paragraphs = input.split('\n');
+
+  paragraphs.map((e) => ' ' * indentSpaces + e);
+
+  return paragraphs.join('\n');
+
+  // The reason this version fails, is because map returns a new Iterable.
+  // The original paragraphs list was never changed, and is returned without
+  // indentation.
 }
