@@ -1,0 +1,9 @@
+const data =
+    '''ujdsgojsegi oieajgfoijgds geadapg ijgdspijujdsgojsegi oieajgfoijgds geadapg ijgdspijujdsgojsegi oieajgfoijgds geadapg ijgdspijujdsgojsegi oieajgfoijgds geadapg ijgdspijujdsgojsegi oieajgfoijgds geadapg ijgdspijujdsgojsegi oieajgfoijgds geadapg ijgdspij
+
+aedgsaedgsadg ujdsgojsegi oieajgfoijgds geadapg ijgdspij aedgsaedgsadg ujdsgojsegi oieajgfoijgds geadapg ijgdspij aedgsaedgsadg ujdsgojsegi oieajgfoijgds geadapg ijgdspij aedgsaedgsadg ujdsgojsegi oieajgfoijgds geadapg ijgdspij aedgsaedgsadg ujdsgojsegi oieajgfoijgds geadapg ijgdspij aedgsaedgsadg ujdsgojsegi oieajgfoijgds geadapg ijgdspij 
+aegadgagaedgsaedgsadg ujdsgojsegi oieajgfoijgds geadapg ijgdspij aedgsaedgsadg ujdsgojsegi oieajgfoijgds geadapg ijgdspij aedgsaedgsadg ujdsgojsegi oieajgfoijgds geadapg ijgdspij aedgsaedgsadg ujdsgojsegi oieajgfoijgds geadapg ijgdspij aedgsaedgsadg ujdsgojsegi oieajgfoijgds geadapg ijgdspij 
+
+
+adgadgsdgasrhgsafhafh dahr aedgsaedgsadg ujdsgojsegi oieajgfoijgds geadapg ijgdspij aedgsaedgsadg ujdsgojsegi oieajgfoijgds geadapg ijgdspij aedgsaedgsadg ujdsgojsegi oieajgfoijgds geadapg ijgdspij 
+adhdahfdafhadfhadfhoiuhfdoikjdafhoikjatdhpokdfhokdahk aedgsaedgsadg ujdsgojsegi oieajgfoijgds geadapg ijgdspij aedgsaedgsadg ujdsgojsegi oieajgfoijgds geadapg ijgdspij aedgsaedgsadg ujdsgojsegi oieajgfoijgds geadapg ijgdspij aedgsaedgsadg ujdsgojsegi oieajgfoijgds geadapg ijgdspij ''';
